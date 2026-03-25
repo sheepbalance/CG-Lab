@@ -96,7 +96,7 @@ def get_projection_matrix(fov_degrees, aspect_ratio, near, far):
 # 2. 視窗渲染與互動控制迴圈
 # ---------------------------------------------------------
 def main():
-    res_x, res_y = 800, 600
+    res_x, res_y = 700, 700
     gui = ti.GUI("3D Triangle - Fixed Version", res=(res_x, res_y))
 
     vertices_local = [
