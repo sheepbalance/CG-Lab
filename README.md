@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 ![这是图片](/assets/img/V.gif "实验一图形")
 # 实验一图形
 ![这是图片](/assets/img/V2.gif "实验二图形")
